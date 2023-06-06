@@ -1,0 +1,9 @@
+c:\users\dns\documents\visual studio 2013\Projects\Cpu_Gpu\Cpu_Gpu\bin\Debug\Cpu_Gpu.exe
+c:\users\dns\documents\visual studio 2013\Projects\Cpu_Gpu\Cpu_Gpu\bin\Debug\Cpu_Gpu.pdb
+c:\users\dns\documents\visual studio 2013\Projects\Cpu_Gpu\Cpu_Gpu\obj\Debug\Cpu_Gpu.csprojResolveAssemblyReference.cache
+c:\users\dns\documents\visual studio 2013\Projects\Cpu_Gpu\Cpu_Gpu\obj\Debug\Cpu_Gpu.Properties.Resources.resources
+c:\users\dns\documents\visual studio 2013\Projects\Cpu_Gpu\Cpu_Gpu\obj\Debug\Cpu_Gpu.csproj.GenerateResource.Cache
+c:\users\dns\documents\visual studio 2013\Projects\Cpu_Gpu\Cpu_Gpu\obj\Debug\Cpu_Gpu.exe
+c:\users\dns\documents\visual studio 2013\Projects\Cpu_Gpu\Cpu_Gpu\obj\Debug\Cpu_Gpu.pdb
+c:\users\dns\documents\visual studio 2013\Projects\Cpu_Gpu\Cpu_Gpu\obj\Debug\Cpu_Gpu.FormMain.resources
+c:\users\dns\documents\visual studio 2013\Projects\Cpu_Gpu\Cpu_Gpu\bin\Debug\Cpu_Gpu.exe.config
